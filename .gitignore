@@ -1,0 +1,4 @@
+# .env Example (edit with your values)
+MONGODB_URI=mongodb://localhost:27017/yourDatabaseName
+JWT_SECRET=your_strong_secret_key_here
+PORT=5000
